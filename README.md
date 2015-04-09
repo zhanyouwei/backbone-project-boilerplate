@@ -1,5 +1,5 @@
 # BACKBONE BOILERPLATE
-## 这是一个Backbone 模板项目，你可以用来构建Backbone项目的基础框架
+### 这是一个Backbone 模板项目，你可以用来构建Backbone项目的基础框架
 
 ### TECHNOLOGIES
 
